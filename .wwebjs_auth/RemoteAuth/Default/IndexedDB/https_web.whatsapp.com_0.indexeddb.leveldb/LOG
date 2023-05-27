@@ -1,0 +1,14 @@
+2023/05/27-21:46:23.117 65d4 Creating DB D:\lunch-bot\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/05/27-21:46:23.122 65d4 Reusing MANIFEST D:\lunch-bot\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/27-21:46:23.197 59c0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/27-21:46:23.794 65d4 Level-0 table #5: started
+2023/05/27-21:46:23.796 65d4 Level-0 table #5: 22963 bytes OK
+2023/05/27-21:46:23.797 65d4 Delete type=0 #3
+2023/05/27-21:46:23.797 65d4 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/27-21:46:41.919 65d4 Level-0 table #7: started
+2023/05/27-21:46:41.940 65d4 Level-0 table #7: 1336443 bytes OK
+2023/05/27-21:46:41.942 65d4 Delete type=0 #4
+2023/05/27-21:46:41.944 65d4 Compacting 1@1 + 1@2 files
+2023/05/27-21:46:41.974 65d4 Generated table #8@1: 12894 keys, 1055474 bytes
+2023/05/27-21:46:41.974 65d4 Compacted 1@1 + 1@2 files => 1055474 bytes
+2023/05/27-21:46:41.974 65d4 compacted to: files[ 0 0 1 0 0 0 0 ]

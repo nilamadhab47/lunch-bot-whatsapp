@@ -1,0 +1,33 @@
+2023/05/27-23:58:36.125 6e2c Reusing MANIFEST D:\lunch-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/27-23:58:36.126 6e2c Recovering log #822
+2023/05/27-23:58:36.288 6e2c Reusing old log D:\lunch-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000822.log 
+2023/05/27-23:59:31.896 6e28 Level-0 table #846: started
+2023/05/27-23:59:31.976 6e28 Level-0 table #846: 1088133 bytes OK
+2023/05/27-23:59:31.979 6e28 Delete type=0 #822
+2023/05/27-23:59:48.937 6e28 Compacting 1@0 + 0@1 files
+2023/05/27-23:59:48.994 6e28 Generated table #847@0: 15849 keys, 374234 bytes
+2023/05/27-23:59:48.997 6e28 Generated table #848@0: 244 keys, 6999 bytes
+2023/05/27-23:59:48.997 6e28 Compacted 1@0 + 0@1 files => 381233 bytes
+2023/05/27-23:59:48.998 6e28 compacted to: files[ 0 2 19 0 0 0 0 ]
+2023/05/27-23:59:55.924 6d4c Compacting 1@1 + 8@2 files
+2023/05/27-23:59:56.196 6d4c Generated table #849@1: 57130 keys, 2220263 bytes
+2023/05/27-23:59:56.299 6d4c Generated table #850@1: 12891 keys, 2177480 bytes
+2023/05/27-23:59:56.407 6d4c Generated table #851@1: 2392 keys, 2161790 bytes
+2023/05/27-23:59:56.512 6d4c Generated table #852@1: 2393 keys, 2151867 bytes
+2023/05/27-23:59:56.604 6d4c Generated table #853@1: 1993 keys, 2154230 bytes
+2023/05/27-23:59:56.772 6d4c Generated table #854@1: 11455 keys, 2172036 bytes
+2023/05/27-23:59:57.014 6d4c Generated table #855@1: 26692 keys, 2273984 bytes
+2023/05/27-23:59:57.233 6d4c Generated table #856@1: 27910 keys, 2252436 bytes
+2023/05/27-23:59:57.246 6d4c Generated table #857@1: 613 keys, 91057 bytes
+2023/05/27-23:59:57.247 6d4c Compacted 1@1 + 8@2 files => 17655143 bytes
+2023/05/27-23:59:57.248 6d4c compacted to: files[ 0 1 20 0 0 0 0 ]
+2023/05/27-23:59:57.249 6d4c Delete type=2 #827
+2023/05/27-23:59:57.249 6d4c Delete type=2 #828
+2023/05/27-23:59:57.249 6d4c Delete type=2 #829
+2023/05/27-23:59:57.249 6d4c Delete type=2 #830
+2023/05/27-23:59:57.249 6d4c Delete type=2 #831
+2023/05/27-23:59:57.249 6d4c Delete type=2 #832
+2023/05/27-23:59:57.249 6d4c Delete type=2 #833
+2023/05/27-23:59:57.249 6d4c Delete type=2 #834
+2023/05/27-23:59:57.249 6d4c Delete type=2 #846
+2023/05/27-23:59:57.249 6d4c Delete type=2 #847
